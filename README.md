@@ -4,6 +4,7 @@ This repository demonstrates Intuition behind [LORA](https://arxiv.org/abs/2106.
 . how to perform matrix factorization using PyTorch. Matrix factorization is a 
 powerful technique used in above paper to reduce LLM model size. In short give us the full rank matrix in subspace 
 without effecting much performance. Thanks to UAMR JAMIL for explaination https://www.youtube.com/watch?v=PXWYUTMt-AU
+![img.png](img.png)
 ## Dependencies
 
 Before running the code, ensure you have the following dependencies installed:
